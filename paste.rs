@@ -1,6 +1,5 @@
 /*
-Recreating my python CLI in Rust
-    Tip: to add clap use this command: cargo add clap --features derive
+    A simple Rust CLI tool for pasting text into a file
 */
 use std::env;
 use std::fs::File;
